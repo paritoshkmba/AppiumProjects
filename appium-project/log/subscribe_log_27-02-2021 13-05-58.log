@@ -1,0 +1,35 @@
+2021-02-27 13:06:19,905 [main] INFO core.AppiumServer - starting appium server
+2021-02-27 13:06:32,951 [main] INFO core.AppiumServer - appium server started at : http://127.0.0.1:4723/wd/hub
+2021-02-27 13:06:32,952 [main] INFO core.AppiumInstance - initializing android driver
+2021-02-27 13:07:35,131 [main] INFO core.AppiumInstance - android driver initialized
+2021-02-27 13:07:39,621 [main] INFO core.WaitHelper - waiting for main activity to load
+2021-02-27 13:07:52,942 [main] INFO galatasaray.stepdefinition.HomeScreenSteps - application opened sucessfully
+2021-02-27 13:07:54,393 [main] INFO core.WaitHelper - Waiting for profilepicture to display
+2021-02-27 13:07:55,068 [main] INFO core.WaitHelper - profilepicture is displayed
+2021-02-27 13:07:55,090 [main] INFO core.WaitHelper - Waiting for profilename to display
+2021-02-27 13:07:55,285 [main] INFO core.WaitHelper - profilename is displayed
+2021-02-27 13:08:09,834 [main] INFO core.AppiumInstance - quitting appium session
+2021-02-27 13:08:16,164 [main] INFO core.AppiumServer - stopping appium server
+2021-02-27 13:08:30,187 [main] INFO core.AppiumServer - starting appium server
+2021-02-27 13:08:43,759 [main] INFO core.AppiumServer - appium server started at : http://127.0.0.1:4723/wd/hub
+2021-02-27 13:08:43,760 [main] INFO core.AppiumInstance - initializing android driver
+2021-02-27 13:09:56,415 [main] INFO core.AppiumInstance - android driver initialized
+2021-02-27 13:09:56,504 [main] INFO core.WaitHelper - waiting for main activity to load
+2021-02-27 13:10:08,372 [main] INFO galatasaray.stepdefinition.HomeScreenSteps - application opened sucessfully
+2021-02-27 13:10:08,396 [main] INFO core.WaitHelper - Waiting for loginbutton to display
+2021-02-27 13:10:09,914 [main] INFO core.WaitHelper - loginbutton is displayed
+2021-02-27 13:10:09,924 [main] INFO core.CoreFunctions - Clicking on loginbutton
+2021-02-27 13:10:10,940 [main] INFO core.CoreFunctions - Successfully clicked on loginbutton
+2021-02-27 13:10:11,834 [main] INFO core.WaitHelper - Waiting for inputphoneno to display
+2021-02-27 13:10:13,694 [main] INFO core.WaitHelper - inputphoneno is displayed
+2021-02-27 13:10:27,032 [main] INFO core.AppiumInstance - quitting appium session
+2021-02-27 13:10:32,020 [main] INFO core.AppiumServer - stopping appium server
+2021-02-27 13:10:50,245 [main] INFO core.AppiumServer - starting appium server
+2021-02-27 13:11:15,658 [main] INFO core.AppiumServer - appium server started at : http://127.0.0.1:4723/wd/hub
+2021-02-27 13:11:15,659 [main] INFO core.AppiumInstance - initializing android driver
+2021-02-27 13:13:37,939 [main] INFO core.AppiumServer - starting appium server
+2021-02-27 13:13:38,027 [main] INFO core.AppiumServer - appium server started at : http://127.0.0.1:4723/wd/hub
+2021-02-27 13:13:38,029 [main] INFO core.AppiumInstance - initializing android driver
+2021-02-27 13:15:08,635 [main] INFO core.AppiumServer - starting appium server
+2021-02-27 13:15:08,686 [main] INFO core.AppiumServer - appium server started at : http://127.0.0.1:4723/wd/hub
+2021-02-27 13:15:08,687 [main] INFO core.AppiumInstance - initializing android driver

@@ -1,0 +1,3 @@
+2021-02-26 14:06:20,159 [main] INFO core.AppiumServer - starting appium server
+2021-02-26 14:06:48,944 [main] INFO core.AppiumServer - appium server started at : http://127.0.0.1:4723/wd/hub
+2021-02-26 14:06:48,945 [main] INFO core.AppiumInstance - initializing android driver

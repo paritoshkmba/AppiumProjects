@@ -1,0 +1,46 @@
+2021-02-27 14:07:57,219 [main] INFO core.AppiumServer - starting appium server
+2021-02-27 14:08:06,145 [main] INFO core.AppiumServer - appium server started at : http://127.0.0.1:4723/wd/hub
+2021-02-27 14:08:06,146 [main] INFO core.AppiumInstance - initializing android driver
+2021-02-27 14:09:08,466 [main] INFO core.AppiumInstance - android driver initialized
+2021-02-27 14:09:13,511 [main] INFO core.WaitHelper - waiting for main activity to load
+2021-02-27 14:09:28,225 [main] INFO galatasaray.stepdefinition.HomeScreenSteps - application opened sucessfully
+2021-02-27 14:09:30,454 [main] INFO core.WaitHelper - Waiting for textOnMessageCard to display
+2021-02-27 14:09:30,493 [main] INFO core.WaitHelper - textOnMessageCard is displayed
+2021-02-27 14:09:33,877 [main] INFO core.WaitHelper - Waiting for firstName to display
+2021-02-27 14:09:40,932 [main] INFO core.WaitHelper - firstName is displayed
+2021-02-27 14:09:40,933 [main] INFO core.WaitHelper - Waiting for lastName to display
+2021-02-27 14:09:41,056 [main] INFO core.WaitHelper - lastName is displayed
+2021-02-27 14:09:42,672 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:09:43,197 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:09:43,198 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:09:43,354 [main] INFO core.CoreFunctions - next button is enabled
+2021-02-27 14:09:43,357 [main] INFO core.CoreFunctions - Clicking on next button
+2021-02-27 14:09:45,297 [main] INFO core.CoreFunctions - Successfully clicked on next button
+2021-02-27 14:09:45,302 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:09:46,404 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:09:46,405 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:09:46,521 [main] INFO core.CoreFunctions - next button is enabled
+2021-02-27 14:09:46,522 [main] INFO core.CoreFunctions - Clicking on next button
+2021-02-27 14:09:46,872 [main] INFO core.CoreFunctions - Successfully clicked on next button
+2021-02-27 14:09:46,900 [main] INFO core.WaitHelper - Waiting for gender to display
+2021-02-27 14:09:51,333 [main] INFO core.WaitHelper - gender is displayed
+2021-02-27 14:09:51,334 [main] INFO core.CoreFunctions - scrolling window by coordinates : xStart:700,yStart:2200,xEnd:700,yEnd:1800
+2021-02-27 14:09:51,712 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:09:51,816 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:09:51,816 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:09:51,919 [main] INFO core.CoreFunctions - next button is enabled
+2021-02-27 14:09:51,920 [main] INFO core.CoreFunctions - Clicking on next button
+2021-02-27 14:09:52,250 [main] INFO core.CoreFunctions - Successfully clicked on next button
+2021-02-27 14:09:52,290 [main] INFO core.WaitHelper - Waiting for day to display
+2021-02-27 14:09:56,962 [main] INFO core.WaitHelper - day is displayed
+2021-02-27 14:09:56,963 [main] INFO core.CoreFunctions - Getting Text for day
+2021-02-27 14:09:57,030 [main] INFO core.CoreFunctions - Text is:
+2021-02-27 14:09:57,031 [main] INFO core.CoreFunctions - scrolling window by coordinates : xStart:350,yStart:2200,xEnd:350,yEnd:1800
+2021-02-27 14:09:57,073 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:09:57,150 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:09:57,151 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:09:57,262 [main] INFO core.CoreFunctions - next button is not enabled
+2021-02-27 14:09:57,285 [main] INFO core.CoreFunctions - Taking Failed Screenshot 
+2021-02-27 14:09:58,446 [main] INFO core.CoreFunctions - Failed Screenshot saved | output file : C:\Users\ckumar84\Desktop\mobile automation\appium-project\screenshots\FailedScreenshots\verifyusershouldnotbeabletoregisterwithwrongOTP_27-02-2021-14-09-57.png
+2021-02-27 14:10:07,598 [main] INFO core.AppiumInstance - quitting appium session
+2021-02-27 14:10:11,422 [main] INFO core.AppiumServer - stopping appium server

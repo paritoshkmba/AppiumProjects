@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75769" started-at="2021-02-23T11:29:49 IST" finished-at="2021-02-23T11:31:05 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@8646db9]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="75769" started-at="2021-02-23T11:29:49 IST" finished-at="2021-02-23T11:31:05 IST">
+      <class name="galatasaray.testrunner.RunCucumberFeaturesTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@8646db9]" name="setUpClass" is-config="true" duration-ms="734" started-at="2021-02-23T11:29:49 IST" finished-at="2021-02-23T11:29:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@8646db9]" name="setUpBeforeClass" is-config="true" duration-ms="134" started-at="2021-02-23T11:29:50 IST" finished-at="2021-02-23T11:29:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUpBeforeTest(java.lang.String, java.lang.String)[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@8646db9]" name="setUpBeforeTest" is-config="true" duration-ms="36569" started-at="2021-02-23T11:29:50 IST" finished-at="2021-02-23T11:30:27 IST">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method status="FAIL" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@8646db9]" name="runScenario" duration-ms="33796" started-at="2021-02-23T11:30:27 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-23T11:31:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["user should login sucessfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Home Screen Galatasaray"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Could not click on country code due to Can't locate an element by this strategy: By.chained({By.id: countryCode})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Could not click on country code due to Can't locate an element by this strategy: By.chained({By.id: countryCode})
+at org.testng.Assert.fail(Assert.java:99)
+at core.CoreFunctions.click(CoreFunctions.java:53)
+at galatasaray.pageObjects.SignInPage.clickOnCountryCode(SignInPage.java:51)
+at galatasaray.stepdefinition.HomeScreenSteps.select_country_as(HomeScreenSteps.java:201)
+at ✽.select country as "India" with country code as "+91"(file:///D:/workspace_eclipse/appium-project/src/test/resources/features/galatasaray/homescreen.feature:56)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@8646db9]" name="tearDownTest" is-config="true" duration-ms="3897" started-at="2021-02-23T11:31:01 IST" finished-at="2021-02-23T11:31:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@8646db9]" name="tearDownClass" is-config="true" duration-ms="579" started-at="2021-02-23T11:31:04 IST" finished-at="2021-02-23T11:31:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- galatasaray.testrunner.RunCucumberFeaturesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

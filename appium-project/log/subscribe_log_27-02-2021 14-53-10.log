@@ -1,0 +1,79 @@
+2021-02-27 14:53:22,503 [main] INFO core.AppiumServer - starting appium server
+2021-02-27 14:53:33,711 [main] INFO core.AppiumServer - appium server started at : http://127.0.0.1:4723/wd/hub
+2021-02-27 14:53:33,712 [main] INFO core.AppiumInstance - initializing android driver
+2021-02-27 14:54:43,848 [main] INFO core.AppiumInstance - android driver initialized
+2021-02-27 14:54:47,198 [main] INFO core.WaitHelper - waiting for main activity to load
+2021-02-27 14:54:58,551 [main] INFO galatasaray.stepdefinition.HomeScreenSteps - application opened sucessfully
+2021-02-27 14:55:01,017 [main] INFO core.WaitHelper - Waiting for textOnMessageCard to display
+2021-02-27 14:55:01,954 [main] INFO core.WaitHelper - textOnMessageCard is displayed
+2021-02-27 14:55:06,017 [main] INFO core.WaitHelper - Waiting for firstName to display
+2021-02-27 14:55:13,090 [main] INFO core.WaitHelper - firstName is displayed
+2021-02-27 14:55:13,090 [main] INFO core.WaitHelper - Waiting for lastName to display
+2021-02-27 14:55:13,226 [main] INFO core.WaitHelper - lastName is displayed
+2021-02-27 14:55:16,662 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:55:17,270 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:55:17,270 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:55:17,434 [main] INFO core.CoreFunctions - next button is enabled
+2021-02-27 14:55:17,437 [main] INFO core.CoreFunctions - Clicking on next button
+2021-02-27 14:55:17,813 [main] INFO core.CoreFunctions - Successfully clicked on next button
+2021-02-27 14:55:17,817 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:55:19,291 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:55:19,293 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:55:19,523 [main] INFO core.CoreFunctions - next button is enabled
+2021-02-27 14:55:19,524 [main] INFO core.CoreFunctions - Clicking on next button
+2021-02-27 14:55:20,118 [main] INFO core.CoreFunctions - Successfully clicked on next button
+2021-02-27 14:55:20,141 [main] INFO core.WaitHelper - Waiting for gender to display
+2021-02-27 14:55:24,300 [main] INFO core.WaitHelper - gender is displayed
+2021-02-27 14:55:24,301 [main] INFO core.CoreFunctions - scrolling window by coordinates : xStart:500,yStart:2000,xEnd:500,yEnd:1800
+2021-02-27 14:55:24,539 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:55:24,685 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:55:24,686 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:55:24,826 [main] INFO core.CoreFunctions - next button is enabled
+2021-02-27 14:55:24,826 [main] INFO core.CoreFunctions - Clicking on next button
+2021-02-27 14:55:25,309 [main] INFO core.CoreFunctions - Successfully clicked on next button
+2021-02-27 14:55:25,326 [main] INFO core.WaitHelper - Waiting for day to display
+2021-02-27 14:55:30,423 [main] INFO core.WaitHelper - day is displayed
+2021-02-27 14:55:30,424 [main] INFO core.CoreFunctions - Getting Text for day
+2021-02-27 14:55:30,541 [main] INFO core.CoreFunctions - Text is:
+2021-02-27 14:55:30,542 [main] INFO core.CoreFunctions - scrolling window by coordinates : xStart:430,yStart:1900,xEnd:430,yEnd:1765
+2021-02-27 14:55:32,510 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:55:32,688 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:55:32,689 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:55:32,791 [main] INFO core.CoreFunctions - next button is enabled
+2021-02-27 14:55:32,792 [main] INFO core.CoreFunctions - Clicking on next button
+2021-02-27 14:55:33,206 [main] INFO core.CoreFunctions - Successfully clicked on next button
+2021-02-27 14:55:33,210 [main] INFO core.WaitHelper - Waiting for yes button to display
+2021-02-27 14:55:38,806 [main] INFO core.WaitHelper - yes button is displayed
+2021-02-27 14:55:38,808 [main] INFO core.CoreFunctions - Clicking on yes button
+2021-02-27 14:55:39,254 [main] INFO core.CoreFunctions - Successfully clicked on yes button
+2021-02-27 14:55:39,257 [main] INFO core.WaitHelper - Waiting for yes button to display
+2021-02-27 14:55:42,622 [main] INFO core.WaitHelper - yes button is displayed
+2021-02-27 14:55:42,625 [main] INFO core.CoreFunctions - Clicking on yes button
+2021-02-27 14:55:43,030 [main] INFO core.CoreFunctions - Successfully clicked on yes button
+2021-02-27 14:55:43,040 [main] INFO galatasaray.stepdefinition.HomeScreenSteps - generating random mobile number 6198482946
+2021-02-27 14:55:43,045 [main] INFO core.WaitHelper - Waiting for inputphoneno to display
+2021-02-27 14:55:48,030 [main] INFO core.WaitHelper - inputphoneno is displayed
+2021-02-27 14:55:48,032 [main] INFO core.CoreFunctions - Clicking on input phone no
+2021-02-27 14:55:48,376 [main] INFO core.CoreFunctions - Successfully clicked on input phone no
+2021-02-27 14:55:53,545 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:55:54,121 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:55:54,121 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:55:54,212 [main] INFO core.CoreFunctions - next button is enabled
+2021-02-27 14:55:54,214 [main] INFO core.CoreFunctions - Clicking on next button
+2021-02-27 14:55:54,576 [main] INFO core.CoreFunctions - Successfully clicked on next button
+2021-02-27 14:55:54,585 [main] INFO core.WaitHelper - Waiting for inputOTP to display
+2021-02-27 14:55:58,847 [main] INFO core.WaitHelper - inputOTP is displayed
+2021-02-27 14:55:58,847 [main] INFO core.CoreFunctions - Clicking on input OTP no
+2021-02-27 14:55:59,192 [main] INFO core.CoreFunctions - Successfully clicked on input OTP no
+2021-02-27 14:56:01,470 [main] INFO core.WaitHelper - Waiting for next button to display
+2021-02-27 14:56:02,065 [main] INFO core.WaitHelper - next button is displayed
+2021-02-27 14:56:02,066 [main] INFO core.CoreFunctions - Verifying if next button is enabled
+2021-02-27 14:56:02,191 [main] INFO core.CoreFunctions - next button is enabled
+2021-02-27 14:56:02,192 [main] INFO core.CoreFunctions - Clicking on next button
+2021-02-27 14:56:02,764 [main] INFO core.CoreFunctions - Successfully clicked on next button
+2021-02-27 14:56:02,779 [main] INFO core.WaitHelper - Waiting for error message to display
+2021-02-27 14:56:04,937 [main] INFO core.WaitHelper - error message is displayed
+2021-02-27 14:56:04,939 [main] INFO core.CoreFunctions - Getting Text for error message
+2021-02-27 14:56:05,055 [main] INFO core.CoreFunctions - Text is:Yanl?? kod. Tekrar deneyiniz.
+2021-02-27 14:56:14,488 [main] INFO core.AppiumInstance - quitting appium session
+2021-02-27 14:56:17,147 [main] INFO core.AppiumServer - stopping appium server

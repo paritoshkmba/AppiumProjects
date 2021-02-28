@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-28T16:15:49 IST" name="Galatasaray Suite" finished-at="2021-02-28T16:19:29 IST" duration-ms="220667">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@4ea5b703]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-02-28T16:15:49 IST" name="Test" finished-at="2021-02-28T16:19:29 IST" duration-ms="220667">
+      <class name="galatasaray.testrunner.RunCucumberFeaturesTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@4ea5b703]" started-at="2021-02-28T16:15:49 IST" name="setUpClass" finished-at="2021-02-28T16:15:49 IST" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpBeforeClass()[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@4ea5b703]" started-at="2021-02-28T16:15:49 IST" name="setUpBeforeClass" finished-at="2021-02-28T16:16:31 IST" duration-ms="42039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method is-config="true" signature="setUpBeforeTest(java.lang.String, java.lang.String)[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@4ea5b703]" started-at="2021-02-28T16:16:31 IST" name="setUpBeforeTest" finished-at="2021-02-28T16:17:51 IST" duration-ms="79693" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@4ea5b703]" started-at="2021-02-28T16:17:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-28T16:19:17 IST" duration-ms="85788" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify user should not be able to register with wrong OTP"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Home Screen Galatasaray"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@4ea5b703]" started-at="2021-02-28T16:19:17 IST" name="tearDownTest" finished-at="2021-02-28T16:19:27 IST" duration-ms="10080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:galatasaray.testrunner.RunCucumberFeaturesTest@4ea5b703]" started-at="2021-02-28T16:19:27 IST" name="tearDownClass" finished-at="2021-02-28T16:19:29 IST" duration-ms="1808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- galatasaray.testrunner.RunCucumberFeaturesTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Galatasaray Suite -->
+</testng-results>

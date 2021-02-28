@@ -1,0 +1,14 @@
+2021-02-26 13:46:45,822 [main] INFO core.AppiumServer - starting appium server
+2021-02-26 13:46:57,022 [main] INFO core.AppiumServer - appium server started at : http://127.0.0.1:4723/wd/hub
+2021-02-26 13:46:57,023 [main] INFO core.AppiumInstance - initializing android driver
+2021-02-26 13:48:41,953 [main] INFO core.AppiumInstance - android driver initialized
+2021-02-26 13:48:45,383 [main] INFO core.WaitHelper - waiting for main activity to load
+2021-02-26 13:48:57,413 [main] INFO galatasaray.stepdefinition.HomeScreenSteps - application opened sucessfully
+2021-02-26 13:48:58,262 [main] INFO core.WaitHelper - Waiting for loginbutton to display
+2021-02-26 13:48:59,118 [main] INFO core.WaitHelper - loginbutton is displayed
+2021-02-26 13:48:59,129 [main] INFO core.CoreFunctions - Clicking on loginbutton
+2021-02-26 13:49:00,327 [main] INFO core.CoreFunctions - Successfully clicked on loginbutton
+2021-02-26 13:49:19,094 [main] INFO core.CoreFunctions - Taking Failed Screenshot 
+2021-02-26 13:49:21,132 [main] INFO core.CoreFunctions - Failed Screenshot saved | output file : C:\Users\ckumar84\Desktop\mobile automation\appium-project\screenshots\FailedScreenshots\usershouldloginsucessfully_26-02-2021-13-49-19.png
+2021-02-26 13:49:40,370 [main] INFO core.AppiumInstance - quitting appium session
+2021-02-26 13:49:43,838 [main] INFO core.AppiumServer - stopping appium server
