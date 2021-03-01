@@ -18,7 +18,8 @@ public class EmulatorControls {
 
 	static {
 
-		HomeDirectory = System.getProperty("user.home");
+		//HomeDirectory = System.getProperty("user.home");
+		HomeDirectory = "C:\\Users\\ckumar84";
 		sdkPath = "AppData\\Local\\Android\\";
 		emulatorPath = HomeDirectory + File.separator + sdkPath + "emulator\\emulator.exe";
 		adbPath = HomeDirectory + File.separator + sdkPath + "platform-tools\\adb.exe";
